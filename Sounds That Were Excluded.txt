@@ -1,0 +1,5 @@
+The sound effects with the following names were excluded for licensing reasons:
+
+11.snd.aiffZap Slink 3 Modified.aiffBig Explosion.aiffcomputer.01 short.aiffComputer.04).aiffdownsampled rumbleburst.aiffflack.aiffForce Open Air Lock.aiffGet Energy.aiffhandgun.05.cut.aiffmissile elejeetian 4-zap slink1.aiffMissile Hit Mix.aiffMorse Code Received High.aiff
+Nate Alien Phton 2 (from 233)
+Nate Photon (from 245)Placeholder Sound.aiffpop.aiffregister.08 22x8.aiffricochet1.aiffricochet2.aiffspace blob dies.aiffspace scream.aiffSpace Woosh@11KhZ.aiffStrike Long Phz copy.aiffTeletype.aiffUntitled Resource-1.aiffWire Shot Low.aiffZap Impact A copy.aiff
